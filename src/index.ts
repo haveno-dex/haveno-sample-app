@@ -1,3 +1,6 @@
+import XMLHttpRequest from "xhr2"; // Import the class directly
+(global as any).XMLHttpRequest = XMLHttpRequest;
+
 import { HavenoClient } from "haveno-ts";
 
 main();

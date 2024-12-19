@@ -17,6 +17,6 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "haveno-ts": "^0.0.30"
+    "haveno-ts": "file:../haveno-ts/haveno-ts-0.0.30.tgz"
   }
 }
